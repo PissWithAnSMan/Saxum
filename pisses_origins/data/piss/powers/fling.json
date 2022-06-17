@@ -11,7 +11,7 @@
       },
       {
         "type": "origins:execute_command",
-        "command": "power revoke @s betterhuman:fling",
+        "command": "power revoke @s piss:fling",
         "permission": 4
       }
     ]
