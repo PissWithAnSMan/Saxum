@@ -1,0 +1,10 @@
+{
+  "entity_action": {
+    "type": "origins:gain_air",
+    "value": -100,
+    "condition": {
+      "type": "origins:air",
+      "comparison": "==",
+      "compare_to": 300
+    }
+  }

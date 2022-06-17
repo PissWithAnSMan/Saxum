@@ -1,0 +1,19 @@
+{
+  "name": "Rock",
+  "description": "You pull a part of yourself apart and throw it at extreme speeds in front of you, somehow this doesn't hurt.",
+  "type": "origins:fire_projectile",
+  "entity_type": "reaeaeejjj:entitybulletrock",
+  "cooldown": 400,
+  "speed": 5,
+  "sound": "reaeaeejjj:rock_throw",
+  "hud_render": {
+    "should_render": true,
+    "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+    "bar_index": 19
+  },
+  "tag": "{pickup:0b}",
+  "key": {
+    "key": "key.origins.secondary_active",
+    "continuous": false
+  }
+}

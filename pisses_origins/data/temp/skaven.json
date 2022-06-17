@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"piss:imbuement",
+		"piss:bite",
+		"piss:bad_posture",
+		"piss:plague_carrier",
+		"piss:small_lungs"
+	],
+	"icon": "minecraft:cauldron",
+	"order": 25,
+	"impact": 2,
+	"name": "Skaven",
+	"description": "Rats, Rats, We're the Rats.'"
+}

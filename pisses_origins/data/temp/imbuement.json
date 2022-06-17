@@ -1,0 +1,100 @@
+{
+  "poisoned_wooden_sword": {
+    "type": "origins:recipe",
+    "recipe": {
+      "id": "piss:imbuement/poisoned_wooden_sword",
+      "type": "minecraft:crafting_shapeless",
+      "ingredients": [
+        {
+          "item": "minecraft:wooden_sword"
+        }
+      ],
+      "result": {
+        "item": "reaeaeejjj:poisoned_wooden_sword"
+      }
+     },
+      "poisoned_stone_sword": {
+        "type": "origins:recipe",
+        "recipe": {
+          "id": "piss:imbuement/poisoned_stone_sword",
+          "type": "minecraft:crafting_shapeless",
+          "ingredients": [
+            {
+              "item": "minecraft:stone_sword"
+            }
+          ],
+          "result": {
+            "item": "reaeaeejjj:poisoned_stone_sword"
+          }
+        },
+        {
+          "poisoned_golden_sword": {
+            "type": "origins:recipe",
+            "recipe": {
+              "id": "piss:imbuement/poisoned_golden_sword",
+              "type": "minecraft:crafting_shapeless",
+              "ingredients": [
+                {
+                  "item": "minecraft:golden_sword"
+                }
+              ],
+              "result": {
+                "item": "reaeaeejjj:poisoned_golden_sword"
+              }
+            },
+          {
+              "poisoned_iron_sword": {
+                "type": "origins:recipe",
+                "recipe": {
+                  "id": "piss:imbuement/poisoned_iron_sword",
+                  "type": "minecraft:crafting_shapeless",
+                  "ingredients": [
+                    {
+                      "item": "minecraft:iron_sword"
+                    }
+                  ],
+                  "result": {
+                    "item": "reaeaeejjj:poisoned_iron_sword"
+                  }
+                },
+               {
+                  "poisoned_diamond_sword": {
+                    "type": "origins:recipe",
+                    "recipe": {
+                      "id": "piss:imbuement/poisoned_diamond_sword",
+                      "type": "minecraft:crafting_shapeless",
+                      "ingredients": [
+                        {
+                          "item": "minecraft:diamond_sword"
+                        }
+                      ],
+                      "result": {
+                        "item": "reaeaeejjj:poisoned_diamond_sword"
+                      }
+                    },
+                   {
+                      "poisoned_netherite_sword": {
+                        "type": "origins:recipe",
+                        "recipe": {
+                          "id": "piss:imbuement/poisoned_netherite_sword",
+                          "type": "minecraft:crafting_shapeless",
+                          "ingredients": [
+                            {
+                              "item": "minecraft:netherite_sword"
+                            }
+                          ],
+                          "result": {
+                            "item": "reaeaeejjj:poisoned_netherite_sword"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }

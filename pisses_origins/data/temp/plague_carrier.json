@@ -1,0 +1,9 @@
+{
+  "type": "origins:effect_immunity",
+  "description": "You're infected with the plague already, how is it supposed to hurt you more?'",
+  "effects": [
+    "minecraft:poison",
+    "minecraft:wither"
+  ]
+}
+

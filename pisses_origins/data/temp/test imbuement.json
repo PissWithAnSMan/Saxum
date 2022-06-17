@@ -1,0 +1,15 @@
+{
+  "type": "origins:recipe",
+  "recipe": {
+    "id": "betterhuman:imbuement1/poisoned_wooden_sword",
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:wooden_sword"
+      }
+    ],
+    "result": {
+      "item": "reaeaeejjj:poisonedwoodensword"
+    }
+  }
+}
